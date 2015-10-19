@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nearin/atlas-client/issues"
   },
-  "homepage": "https://github.com/nearin/atlas-client"
+  "homepage": "https://github.com/nearin/atlas-client",
+  "dependencies": {
+    "socket.io": "^1.3.7"
+  }
 }
