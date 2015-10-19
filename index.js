@@ -1,4 +1,4 @@
-import {io} from 'npm/socket.io/socket.io.js';
+import {io} from 'npm/socket.io/socket.io';
 
 export function hello(name) {
   return 'Hello ' + name;
