@@ -4,7 +4,7 @@ export function hello(name) {
 
 import {hello} from 'nearin/atlas-client';
 
-import {io} from 'socket.io/socket.io.js'
+import {io} from 'socket.io/socket.io.js';
 
 export function connect() {
   var socket = io();
