@@ -1,6 +1,8 @@
 ### Node template
 .idea
 
+jspm_packages
+
 # Logs
 logs
 *.log
