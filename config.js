@@ -17,6 +17,7 @@ System.config({
     "babel-runtime": "npm:babel-runtime@5.8.25",
     "core-js": "npm:core-js@1.2.2",
     "socket.io": "npm:socket.io@1.3.7",
+    "socket.io-client": "npm:socket.io-client@1.3.7",
     "traceur": "github:jmcriffey/bower-traceur@0.0.92",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.92",
     "github:jspm/nodelibs-assert@0.1.0": {
