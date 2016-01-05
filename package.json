@@ -19,13 +19,16 @@
   "jspm": {
     "format": "es6",
     "dependencies": {
-      "socket.io": "npm:socket.io",
-      "socket.io-client": "npm:socket.io-client"
+      "socket.io": "github:socketio/socket.io",
+      "socket.io-client": "github:socketio/socket.io-client"
     },
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.24",
       "babel-runtime": "npm:babel-runtime@^5.8.24",
       "core-js": "npm:core-js@^1.1.4"
     }
+  },
+  "devDependencies": {
+    "jspm": "^0.16.19"
   }
 }
